@@ -1,0 +1,38 @@
+[ {
+  "id" : "1",
+  "category" : "red",
+  "name" : "2018 Estate Pinot Noir",
+  "producer" : "cuvaison",
+  "manufacturing_year" : "2018",
+  "amount" : "100",
+  "price" : "42",
+  "abailability" : "AVAILABLE"
+}, {
+  "id" : "2",
+  "category" : "white",
+  "name" : "2018 Estate Chardonnay",
+  "producer" : "cuvaison",
+  "manufacturing_year" : "2018",
+  "amount" : "200",
+  "price" : "26",
+  "abailability" : "AVAILABLE"
+}, {
+  "id" : "3",
+  "category" : "red",
+  "name" : "2018 Chardonnay, ATS",
+  "producer" : "cuvaison",
+  "manufacturing_year" : "2018",
+  "amount" : "50",
+  "price" : "60",
+  "abailability" : "UNAVAILABLE"
+}, {
+  "id" : "4",
+  "category" : "white",
+  "name" : "2019 Estate Sauvignon Blanc",
+  "producer" : "cuvaison",
+  "manufacturing_year" : "2019",
+
+  "amount" : "100",
+  "price" : "24",
+  "abailability" : "AVAILABLE"
+} ]
